@@ -1,0 +1,208 @@
+{
+  "@@last_modified": "2019-08-07T22:41:07.142515",
+  "txtTitleDetail": "PRODUCT DETAIL",
+  "@txtTitleDetail": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "txtTitleMyWishlist": "MY WISHLIST",
+  "@txtTitleMyWishlist": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "api_retry_error": "Please retry!",
+  "@api_retry_error": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "api_default_error": "Something wrong happened!",
+  "@api_default_error": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "some_error": "Some Error Occurred!",
+  "@some_error": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "connection_error": "Internet connection lost!",
+  "@connection_error": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "empty_email": "Empty mail!",
+  "@empty_email": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "invalid_email": "Invalid mail!",
+  "@invalid_email": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "empty_password": "Empty password!",
+  "@empty_password": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "txtCbRemember": "Remember me",
+  "@txtCbRemember": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "txtBtnLogin": "LOGIN",
+  "@txtBtnLogin": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "txtBtnFilter": "FILTER",
+  "@txtBtnFilter": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "txtBtnCreatePdf": "CREATE PDF",
+  "@txtBtnCreatePdf": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "txtBtnActShare": "CREATE SELECTED ITEMS",
+  "@txtBtnActShare": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "txtBtnClearFilter": "CLEAR FILTER",
+  "@txtBtnClearFilter": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "txtBtnOk": "OK",
+  "@txtBtnOk": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "txtBtnSave": "SAVE",
+  "@txtBtnSave": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "txtRetailPrice": "Sales Price",
+  "@txtRetailPrice": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "txtJewelryType": "Jewelry Type",
+  "@txtJewelryType": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "txtProductCode": "Product Code",
+  "@txtProductCode": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "txtWeight": "Weight",
+  "@txtWeight": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "txtTotalCost": "Your Cost",
+  "@txtTotalCost": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "txtCollection": "Collection",
+  "@txtCollection": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "txtGemstones": "Gemstones",
+  "@txtGemstones": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "txtApplyFilter": "APPLY FILTER",
+  "@txtApplyFilter": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "txtFilterJT": "FILTER BY\nJEWELRY TYPE",
+  "@txtFilterJT": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "txtFilterCollection": "FILTER BY\nCOLLECTION",
+  "@txtFilterCollection": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "txtHintUserName": "USERNAME",
+  "@txtHintUserName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "txtHintPassword": "PASSWORD",
+  "@txtHintPassword": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "txtHintYourComment": "YOUR COMMENT",
+  "@txtHintYourComment": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "txtCreatedPdf": "Pdf file saved successfully in MyWishList file",
+  "@txtCreatedPdf": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "txtPopupTitle": "TITLE",
+  "@txtPopupTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "txtPopupItemTypeTitle": "ITEM TYPES",
+  "@txtPopupItemTypeTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "txtPopupDispOptionsTitle": "DISPLAY OPTIONS",
+  "@txtPopupDispOptionsTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "txtPopupCGTitle": "COLLECTION GROUPS",
+  "@txtPopupCGTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "txtPopupPermAlert": "You cannot switch to the other menu without access to storage.",
+  "@txtPopupPermAlert": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "txtPopupRoutePerm": "Route Permission",
+  "@txtPopupRoutePerm": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "txtPopupClosePerm": "KAPAT",
+  "@txtPopupClosePerm": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "txtPopupRefusePerm": "Application permissions denied",
+  "@txtPopupRefusePerm": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "txtTitleSalesPrice": "SALES PRICE",
+  "@txtTitleSalesPrice": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "txtTitleComment": "YOUR COMMENT",
+  "@txtTitleComment": {
+    "type": "text",
+    "placeholders": {}
+  }
+}
